@@ -16,6 +16,7 @@
     <mvn.golang.get.packages.file>${basedir}${file.separator}packages.txt</mvn.golang.get.packages.file>
     <go.wrapper.plugin.version>2.2.0</go.wrapper.plugin.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>       
     <maven.build.timestamp.format>yyyyMMddHHmm</maven.build.timestamp.format>
     <mvn.version>3.0</mvn.version>
     <final.extension></final.extension>
